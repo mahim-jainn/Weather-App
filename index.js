@@ -73,7 +73,6 @@ async function fetchUserWeatherInfo(coordinates){
         renderWeatherInfo(data);
     }
     catch(err){
-        // hw
         loadingScreen.classList.remove("active");
     }
 }
@@ -108,7 +107,6 @@ function getLocation(){
         navigator.geolocation.getCurrentPosition(showPosition);
     }
     else{
-        // hw create an alert as no geolocation support
         alert("No geolocation support");
     }
 }
@@ -152,6 +150,6 @@ async function fetchSearchWeatherInfo(city){
         renderWeatherInfo(data);
     }
     catch(err){
-        // hw
+        console.log("API problem");
     }
 }
