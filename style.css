@@ -12,6 +12,14 @@
     --colorLight2:#F9F7F7;
 }
 
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(90deg, rgba(255, 255, 0, 1) 0%, rgba(11, 96, 107, 1) 0%, rgba(238, 130, 238, 1) 100%);
+}
+
+
 .wrapper{
     width: 100vw;
     height: 100vh;
@@ -159,6 +167,7 @@ h1{
     justify-content: center;
     align-items: center;
     margin-top: 2rem;
+    margin-bottom: 2rem;
 }
 
 
