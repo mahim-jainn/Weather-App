@@ -206,7 +206,7 @@ h1{
 
 
 .form-container.active{
-    display: flex;
+    display: none;
 }
 
 
