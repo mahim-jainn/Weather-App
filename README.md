@@ -6,4 +6,4 @@ I’ve created a weather app using HTML, CSS, and JavaScript, which fetches real
 ✅ Search any city for real-time weather info 🌆
 ✅ Simple, responsive, and user-friendly UI 🎨
 Excited to enhance it further! Let me know your thoughts.
-Check it out- https://storied-griffin-911cd7.netlify.app/
+Check it out- https://weather-app-by-mahim.netlify.app/
